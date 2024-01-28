@@ -1,0 +1,19 @@
+## on5xeltedx-user 7.0 NRD90M G570YDXS2BRG1 release-keys
+- Manufacturer: samsung
+- Platform: exynos5
+- Codename: on5xelte
+- Brand: samsung
+- Flavor: on5xeltedx-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: G570YDXS2BRG1
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: samsung/on5xeltedx/on5xelte:7.0/NRD90M/G570YDXS2BRG1:user/release-keys
+- OTA version: 
+- Branch: on5xeltedx-user-7.0-NRD90M-G570YDXS2BRG1-release-keys
+- Repo: samsung_on5xelte_dump

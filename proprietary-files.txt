@@ -1,0 +1,257 @@
+# All blobs from on5xeltedx-user 7.0 NRD90M G570YDXS2BRG1 release-keys, unless pinned
+
+# Audio
+vendor/lib/libaudiohookclient.so
+
+# Bluetooth
+vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIPFMC/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIPFMC/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET_NREC_ON.txt
+vendor/lib/libbt-vendor.so
+
+# Bluetooth-AptX
+lib/libbt-aptX-ARM-4.2.2.so
+lib/libbt-codec_aptx.so
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/fimc_is_lib.bin
+vendor/firmware/mfc_fw.bin
+vendor/firmware/mfc_ldfw.bin
+vendor/firmware/setfile_5e3.bin
+vendor/firmware/setfile_imx258.bin
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libGLES_mali.so
+vendor/lib/libOpenCL.so
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# NFC
+vendor/etc/nxp/AzControlParams_SPEAKER.txt
+vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt
+vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt
+vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/LVAZFS_Configuration.txt
+vendor/etc/nxp/LVVEFS_Rx_Configuration.txt
+vendor/etc/nxp/LVVEFS_Tx_Configuration.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIP/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIP/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIPFMC/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIPFMC/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIPFMC/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIPFMC/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIPFMC/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIPFMC/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIPFMC/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIPFMC/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIPSec/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/VideoTelephony/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/VideoTelephony/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCalling/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCalling/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCallingHAC/Rx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_SLD.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_NARROWBAND_WIRED_HEADSET.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_EARPIECE.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_SLD.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_SPEAKER.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt
+vendor/etc/nxp/WifiCallingHAC/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Radio-IMS
+-app/ImsSettings/ImsSettings.apk
+
+# Samsung
+vendor/lib/libSamsungPkcs11Wrapper.so
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/libandroid_ssrm.so
+vendor/lib/libapa_jni.so
+vendor/lib/libapex_jni.so
+vendor/lib/libCreateSceneMap.so
+vendor/lib/libexifa.so
+vendor/lib/libHpr_LocFace_mvfd_v1.0.so
+vendor/lib/libHpr_LocLandmark_sdm_v1.0.so
+vendor/lib/libjack.so
+vendor/lib/libjpega.so
+vendor/lib/libknox_remotedesktopclient.so
+vendor/lib/libLifevibes_lvverx.so
+vendor/lib/libLifevibes_lvvetx.so
+vendor/lib/libMcClient.so
+vendor/lib/libMcRegistry.so
+vendor/lib/libMP4Converter.so
+vendor/lib/libOpenCv.so
+vendor/lib/libopensslsmime.so
+vendor/lib/libPhotoEnhance.so
+vendor/lib/libQjpeg.so
+vendor/lib/libquram.so
+vendor/lib/libquramagifencoder.so
+vendor/lib/libremotedesktop_client.so
+vendor/lib/libsaiv_HprFace_FD_api.so
+vendor/lib/libsaiv_HprFace_FD_jni.so
+vendor/lib/libsaiv_HprFace_LD_api.so
+vendor/lib/libsaiv_HprFace_LD_jni.so
+vendor/lib/libsaiv_HprFace_utils_api.so
+vendor/lib/libsaiv_HprFace_utils_jni.so
+vendor/lib/libsaiv_vision.so
+vendor/lib/libSDKRecognitionText.so
+vendor/lib/libSecEmbms.so
+vendor/lib/libsechelper_engine.so
+vendor/lib/libsecimaging.so
+vendor/lib/libsecjpeginterface.so
+vendor/lib/libSecMMCodec.so
+vendor/lib/libsecpkcs11_engine.so
+vendor/lib/libsecure_storage.so
+vendor/lib/libsecure_storage_jni.so
+vendor/lib/libSEF.so
+vendor/lib/libsemcamera_jni.so
+vendor/lib/libsmart_cropping.so
+vendor/lib/libsomp.so
+vendor/lib/libsurfaceutil.so
+vendor/lib/libtlc_comm.so
+vendor/lib/libtlc_tz_ccm.so
